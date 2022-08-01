@@ -1,4 +1,4 @@
-- HELLO THERE, I’m Courtland Scales
+- HELLO THERE, I’m Courtland Scales, 18, IB alumi and cum laude of my highschool class
 - I'm from Mimai Florida
 - I’m interested in anime, gardenning, working out, music, reading/writing, and poetry 
 - I’m currently learning Computer science at MDC 
