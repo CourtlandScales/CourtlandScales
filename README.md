@@ -1,6 +1,6 @@
-- HELLO THERE, I’m Courtland Scales, 18, IB alumi and cum laude of my highschool class
+- HELLO THERE, I’m Courtland Scales, 18, IB alumi and cum laude of my highschool class of 2022
 - I'm from Mimai Florida
-- I’m interested in anime, gardenning, working out, music, reading/writing, and poetry 
+- I’m interested in anime, programming, gardenning, working out, music, reading/writing, and poetry 
 - I’m currently learning Computer science at MDC 
 - I’m looking to collaborate on ...
 - This is how to reach me courtlandscales@gmail.com 
