@@ -1,6 +1,6 @@
 - HELLO THERE, I’m Courtland Scales, 20, IB alumi and cum laude of my highschool class of 2022
 - I'm from Mimai Florida
 - I’m interested in anime, programming, gardenning, working out, music, reading/writing, and poetry 
-- I’m currently learning Computer science at MDC 
+- I’m currently learning Computer science at the UCF
 - I’m looking to collaborate on any project
 - This is how to reach me courtlandscales@gmail.com 
