@@ -1,5 +1,5 @@
 - HELLO THERE, I’m Courtland Scales, 22, IB alumi and cum laude of my highschool class of 2022 and graduated with my AA in Comp Sci at MDC in 2024
-- I'm from Mimai Florida
+- I'm from Miami Florida
 - I’m interested in anime, programming, gardenning, working out, music, reading/writing, and poetry 
 - I’m currently learning Computer science at the UCF
 - I’m looking to collaborate on any project
